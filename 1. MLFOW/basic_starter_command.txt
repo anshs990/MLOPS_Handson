@@ -1,0 +1,4 @@
+conda create -p venv python==3.11 -y
+conda activate /d/Interview/MLOPS/venv/
+mlflow ui --backend-store-uri sqlite:///mlflow.db --port 5000
+

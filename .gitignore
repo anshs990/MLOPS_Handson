@@ -1,0 +1,18 @@
+# MLflow
+**/mlruns/
+**/mlartifacts/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Environment files
+.env
+
+# Data/artifacts
+**/artifacts/
+**/data/
